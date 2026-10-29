@@ -73,6 +73,7 @@ Prompt packs, skills and subagent definitions that teach a coding agent how Mage
 
 ### Dev-side — codebase, standards and docs
 
+- **[Magento 2 and Adobe Commerce](https://github.com/magento/magento2-phpstorm-plugin)** ![stars](https://img.shields.io/github/stars/magento/magento2-phpstorm-plugin?style=flat-square&label=&color=555) 🖥 — JetBrains IDE plugin exposing Magento configuration inspection, CLI environment discovery (`describe_magento_cli_environment`) and built-in UCT upgrade compatibility checks (`magento_compatibility`, requires the PHP plugin) through MCP, with a bundled `magento-inspect` agent skill.
 - **[magento2-dev-mcp](https://github.com/elgentos/magento2-dev-mcp)** ![stars](https://img.shields.io/github/stars/elgentos/magento2-dev-mcp?style=flat-square&label=&color=555) — MCP server to help with Magento 2 development.
 - **[magento-bricklayer](https://github.com/Inchoo/magento-bricklayer)** ![stars](https://img.shields.io/github/stars/Inchoo/magento-bricklayer?style=flat-square&label=&color=555) — AI-assisted development toolkit: introspection tools, code generation and Magento knowledge exposed to coding agents over MCP.
 - **[magector](https://github.com/krejcif/magector)** ![stars](https://img.shields.io/github/stars/krejcif/magector?style=flat-square&label=&color=555) — Technology-aware MCP server that builds a semantic vector index of the whole codebase (18,000+ files) and exposes 47 tools with Magento pattern detection — plugins, observers, DI preferences, layout XML.
